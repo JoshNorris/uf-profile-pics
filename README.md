@@ -1,2 +1,2 @@
-# uf-profile-pics
-Community Sprinkle for UserFrosting. Allows the upload and management of profile pictures vs the default grav implementation.
+# UserFrosting Profile Pics
+A Community Sprinkle for [UserFrosting](https://userfrosting.com). Allows the upload and management of profile pictures vs the default gravatar support.
